@@ -1,7 +1,7 @@
-# Hi there, I'm HACKERPROTM <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+ Hi there, I'm HACKERPROTM <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 ---
 
-## I'm a Discord Bot Developer
+ I'm a Discord Bot Developer
 ---
 
 - 🌱 I am experienced in Discord.JS and I am currently learning HTML and CSS
