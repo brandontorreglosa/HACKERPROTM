@@ -5,10 +5,10 @@
  I'm a Discord Bot Developer
 ---
 
-- 🌱 I am experienced in Discord.JS and I am currently learning HTML and CSS
-- 🏆 2021 Goals: Contribute to more open source projects and upgrading my [discord bot!](https://infinitybot.tk/invite)
+- 🌱 I am experienced in HTML and I am currently learning JS and CSS
+- 🏆 2022 Goals: Contribute to more open source projects and upgrading my cool [discord bot!](https://xopbot.glitch.me/)
 - 📫 What is the best way to contact me? [Discord](https://discord.com/users/661501985517862972)
-- 😄 Pronouns: He/Him
+- 😎 Cool: 100%
 
 ---
 
@@ -43,3 +43,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HACKERPROTM)](https://github.com/anuraghazra/github-readme-stats)
 
 <p text-align:center>Thanks To @Simpleboy353 For The Profile Template</p>
+```js
+8 + 10 = 18 frac {} 5
+```
