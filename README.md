@@ -2,6 +2,7 @@
 ---
 
 ## I'm a Discord Bot Developer
+---
 
 - 🌱 I am experienced in Discord.JS and I am currently learning HTML and CSS
 - 🏆 2021 Goals: Contribute to more open source projects and upgrading my [discord bot!](https://infinitybot.tk/invite)
@@ -40,4 +41,4 @@
 ![HACKERPROTM's GitHub stats](https://github-readme-stats.vercel.app/api?username=HACKERPROTM&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HACKERPROTM)](https://github.com/anuraghazra/github-readme-stats)
 
-<p style="text-align:center;">Thanks To @Simpleboy353 For The Profile Template</p>
+<p text-align:center>Thanks To @Simpleboy353 For The Profile Template</p>
