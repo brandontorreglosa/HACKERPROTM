@@ -39,6 +39,6 @@
 ### Github Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=HACKERPROTM&theme=onedark&title=Joined2021,Commit,Followers,Repositories,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 ![HACKERPROTM's GitHub stats](https://github-readme-stats.vercel.app/api?username=HACKERPROTM&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HACKERPROTM)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HACKERPROTM&title_color=#ff0000)](https://github.com/anuraghazra/github-readme-stats)
 
 <p text-align:center>Thanks To @Simpleboy353 For The Profile Template</p>
