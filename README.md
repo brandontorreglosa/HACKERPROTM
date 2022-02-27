@@ -3,8 +3,7 @@
  <h1>Hi there, I'm HACKERPROTM  <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /></h1>
 
  <h3>I'm a Discord Bot Developer <img width="20px" height="20px" src="https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Circle-1024x1024.png" /></h3>
-<button>Ok</button>
-
+ 
 - ➡️ Learn More About Me Here: [hackerprodev](https://xopbot.glitch.me/services/profiles/hackerprodev)
 - 🌱 I am experienced in HTML and I am currently learning JS and CSS
 - 🏆 2022 Goals: Contribute to more open source projects and upgrading my cool [discord bot!](https://xopbot.glitch.me/)
@@ -32,6 +31,7 @@
 ---
 
 ### Browsers and IDE
+[![Discord](https://shields.io/badge/discord-ffffff?style=for-the-badge&logo=discord&logoColor=000000)](https://discord.com)
 [![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://google.com/chrome/)
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
