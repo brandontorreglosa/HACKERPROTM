@@ -2,7 +2,7 @@
  
  <h1>Hi there, I'm HACKERPROTM  <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /></h1>
 
- I'm a Discord Bot Developer <img width="20px" src="https://th.bing.com/th/id/OIP.mNcCu1ozfz_8bW36QGJcSgHaHa?pid=ImgDet&rs=1" />
+ I'm a Discord Bot Developer <img width="50px" src="https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Circle-1024x1024.png" />
 ---
 
 - ➡️ Learn More About Me Here: [hackerprodev](https://xopbot.glitch.me/services/profiles/hackerprodev)
