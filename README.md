@@ -2,12 +2,13 @@
  
  <h1>Hi there, I'm HACKERPROTM  <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /></h1>
 
- I'm a Discord Bot Developer
+ I'm a Discord Bot Developer <img width="20px" src="https://github.com/SatYu26/raw/master/Assets/Code.gif" />
 ---
 
+- ➡️ Learn More About Me Here: [hackerprodev](https://xopbot.glitch.me/services/profiles/hackerprodev)
 - 🌱 I am experienced in HTML and I am currently learning JS and CSS
 - 🏆 2022 Goals: Contribute to more open source projects and upgrading my cool [discord bot!](https://xopbot.glitch.me/)
-- 📫 What is the best way to contact me? [Discord](https://discord.com/users/661501985517862972)
+- 📫 What is the best way to contact me? [Discord](https://discord.com/users/600094534386319370)
 - 😎 Cool: 100%
 
 ---
@@ -41,5 +42,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=HACKERPROTM&theme=onedark&title=Joined2021,Commit,Followers,Repositories,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 ![HACKERPROTM's GitHub stats](https://github-readme-stats.vercel.app/api?username=HACKERPROTM&show_icons=true&title_color=ff0000&text_color=ffffff&bg_color=000&icon_color=ff0000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HACKERPROTM)](https://github.com/anuraghazra/github-readme-stats)
-
-<p text-align:center>Thanks To @Simpleboy353 For The Profile Template</p>
