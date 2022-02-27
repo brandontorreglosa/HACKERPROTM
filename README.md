@@ -38,6 +38,12 @@
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://notepad-plus-plus.org)
 ---
 
+### Socials 
+[![Instagram](https://shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=yellow)](https://www.instagram.com/brandon.torreglosa)
+[![Facebook](https://shields.io/badge/facebook-white?style=for-the-badge&logo=facebook)](https://www.facebook.com/brandon.torreglosa)
+[![Youtube](https://shields.io/badge/youtube-white?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/c/HACKERPROTMYOUTUBE)
+---
+
 ### Github Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=HACKERPROTM&theme=onedark&title=Joined2021,Commit,Followers,Repositories,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 ![HACKERPROTM's GitHub stats](https://github-readme-stats.vercel.app/api?username=HACKERPROTM&show_icons=true&title_color=ff0000&text_color=ffffff&bg_color=000&icon_color=ff0000)
