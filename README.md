@@ -32,7 +32,6 @@
 ---
 
 ### Browsers and IDE
-[![Discord](https://shields.io/badge/discord-ffffff?style=for-the-badge&logo=discord&logoColor=000000)](https://discord.com)
 [![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://google.com/chrome/)
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
@@ -44,6 +43,7 @@
 [![Facebook](https://shields.io/badge/facebook-white?style=for-the-badge&logo=facebook)](https://www.facebook.com/brandon.torreglosa)
 [![Youtube](https://shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/HACKERPROTMYOUTUBE)
 [![Scratch](https://shields.io/badge/scratch-yellow?style=for-the-badge&logo=scratch&logoColor=orange)](https://scratch.mit.edu/users/COOLBLUEINKLINGTM/)
+[![Discord](https://shields.io/badge/discord-ffffff?style=for-the-badge&logo=discord&logoColor=000000)](https://discord.com/users/600094534386319370)
 ---
 
 ### Github Stats
