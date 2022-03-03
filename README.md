@@ -8,7 +8,8 @@
 - 🌱 I am experienced in HTML and I am currently learning JS and CSS
 - 🏆 2022 Goals: Contribute to more open source projects and upgrading my cool [discord bot!](https://xopbot.glitch.me/)
 - 📫 What is the best way to contact me? [Discord](https://discord.com/users/600094534386319370)
-- 😎 Cool: 100%
+- 😎 Cool: 100
+- 👨 Age: 15
 
 ---
 
