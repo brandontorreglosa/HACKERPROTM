@@ -10,12 +10,32 @@
 - 📫 Want to contact me? The best way to contact me is [Discord](https://discord.com/users/600094534386319370)
 - 😎 Cool: 100
 - 👨 Age: 15
-```js
-<button onclick="about()">Click</button>
-function about() {
-var x = document.body;
-x.write("Hello World!")
+
+
+
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<button onclick="hello()">
+Click
+</button>
+<script>
+function hello() {
+var x = document;
+x.write("Hello World!" + "&nbsp;My Name Is Brandon." + "<br>Make Sure To Check My Github Status.");
+console.log(x);
 }
+</script>
+</body>
+</html>
+
+
 ```
 ---
 
