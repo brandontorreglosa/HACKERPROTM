@@ -77,8 +77,8 @@ console.log(x);
 ---
 
 ### Github Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=HACKERPROTM&theme=onedark&title=Joined2021,Commit,Followers,Repositories,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
-![HACKERPROTM's GitHub stats](https://github-readme-stats.vercel.app/api?username=HACKERPROTM&show_icons=true&title_color=ff0000&text_color=ffffff&bg_color=000&icon_color=ff0000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HACKERPROTM&show_icons=true&layout=compact&title_color=ff0000&text_color=ffffff&bg_color=000&icon_color=ff0000)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+![HACKERPROTM's GitHub stats](https://github-readme-stats.vercel.app/api?username=HACKERPROTM&show_icons=true&title_color=ff0000&text_color=ffffff&bg_color=000&icon_color=ff0000)
 
 ---
