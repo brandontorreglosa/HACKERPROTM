@@ -77,8 +77,16 @@ console.log(x);
 ---
 
 ### Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HACKERPROTM&show_icons=true&layout=compact&title_color=ff0000&text_color=ffffff&bg_color=000&icon_color=ff0000)](https://github.com/anuraghazra/github-readme-stats)
+<kbd>
+<img width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HACKERPROTM&show_icons=true&layout=compact&title_color=ff0000&text_color=ffffff&bg_color=000&icon_color=ff0000"/>
+</kbd>
 <br/>
-![HACKERPROTM's GitHub stats](https://github-readme-stats.vercel.app/api?username=HACKERPROTM&show_icons=true&title_color=ff0000&text_color=ffffff&bg_color=000&icon_color=ff0000)
+<kbd>
+<img src="https://github-readme-stats.vercel.app/api?username=HACKERPROTM&show_icons=true&title_color=ff0000&text_color=ffffff&bg_color=000&icon_color=ff0000"/>
+</kbd>
+<br/>
+<kbd>
+<img style="border: 1px solid white;" src="https://github-readme-streak-stats.herokuapp.com?user=Ghanendra56&hide_border=true&background=000&currStreakLabel=ff0000&sideLabels=ff0000&currStreakNum=FFFFFF&dates=fff&sideNums=ffffff&fire=&ring=ff0000&stroke=fff"/>
+</kbd>
 
 ---
