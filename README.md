@@ -1,20 +1,17 @@
- <p align="center">
- <img width="150" src="https://avatars.githubusercontent.com/u/84269666?v=4"/>
+<div align="center">
+<img width="150" src="https://avatars.githubusercontent.com/u/84269666?v=4"/>
+<h1>Hi there, I'm HACKERPROTM  <img width="30px" height="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /></h1>
+<h3>I'm a Discord Bot Developer <img width="20px" height="20px" src="https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Circle-1024x1024.png" /></h3>
+<li>➡️ Learn more about me <a href="https://xopbot.glitch.me/profiles/hackerprodev">Here</a></li>
+<li>🌱 Experienced in front-end development. Learning back-end</li>
+<li>🏆 Contribute open source projects. Upgrade my <a href="https://xopbot.glitch.me/">Discord Bot</a></li>
+<li>📫 Want to contact me? The best way to contact me is <a href="https://discord.com/users/600094534386319370">Discord</a></li>
+<li>😎 Cool: 100</li>
+<li>👨 Age: 15</li>
+
  
- <h1>Hi there, I'm HACKERPROTM  <img width="30px" height="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /></h1>
-
- <h3>I'm a Discord Bot Developer <img width="20px" height="20px" src="https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Circle-1024x1024.png" /></h3>
  
-- ➡️ Learn more about me [Here](https://xopbot.glitch.me/services/profiles/hackerprodev)
-- 🌱 Experienced in front-end development. Learning back-end 
-- 🏆 Contribute open source projects. Upgrade my [Discord bot!](https://xopbot.glitch.me/)
-- 📫 Want to contact me? The best way to contact me is [Discord](https://discord.com/users/600094534386319370)
-- 😎 Cool: 100
-- 👨 Age: 15
-
-
-
-
+ 
 
 ```html
 <!DOCTYPE html>
@@ -29,15 +26,15 @@ Click
 <script>
 function hello() {
 var x = document;
-x.write("Hello World!" + "&nbsp;My Name Is Brandon." + "<br>Make Sure To Check My Github Status.");
+x.write("Hello World!" + "&nbsp;My Name Is Brandon." + "<br>Make Sure To Check My Github Stats.");
 console.log(x);
 }
 </script>
 </body>
 </html>
 
-
 ```
+ 
 ---
 
 # Information
@@ -48,7 +45,6 @@ console.log(x);
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://w3.org/Style/CSS)
-
 
 ---
 
@@ -72,8 +68,8 @@ console.log(x);
 [![Instagram](https://shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=yellow)](https://www.instagram.com/brandon.torreglosa)
 [![Facebook](https://shields.io/badge/facebook-white?style=for-the-badge&logo=facebook)](https://www.facebook.com/brandon.torreglosa)
 [![Youtube](https://shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/HACKERPROTMYOUTUBE)
-[![Scratch](https://shields.io/badge/scratch-yellow?style=for-the-badge&logo=scratch&logoColor=orange)](https://scratch.mit.edu/users/COOLBLUEINKLINGTM/)
-[![Discord](https://shields.io/badge/discord-ffffff?style=for-the-badge&logo=discord&logoColor=000000)](https://discord.com/users/600094534386319370)
+<a href="https://scratch.mit.edu/users/COOLBLUEINKLINGTM/" title="Scratch"><img src="https://shields.io/badge/scratch-yellow?style=for-the-badge&logo=scratch&logoColor=orange"/></a>
+<a href="https://discord.com/users/600094534386319370" title="Discord"><img src="https://shields.io/badge/discord-ffffff?style=for-the-badge&logo=discord&logoColor=000000"/></a>
 
 ---
 
@@ -89,6 +85,5 @@ console.log(x);
 <kbd>
 <img style="border: 1px solid white;" src="https://github-readme-streak-stats.herokuapp.com?user=Ghanendra56&hide_border=true&background=000&currStreakLabel=ff0000&sideLabels=ff0000&currStreakNum=FFFFFF&dates=fff&sideNums=ffffff&fire=&ring=ff0000&stroke=fff"/>
 </kbd>
-
----
-</p>
+<hr/>
+</div>
