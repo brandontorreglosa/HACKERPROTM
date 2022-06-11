@@ -1,4 +1,5 @@
- <img width="100" src="https://avatars.githubusercontent.com/u/84269666?v=4">
+ <p align="center">
+ <img width="150" src="https://avatars.githubusercontent.com/u/84269666?v=4"/>
  
  <h1>Hi there, I'm HACKERPROTM  <img width="30px" height="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /></h1>
 
@@ -90,3 +91,4 @@ console.log(x);
 </kbd>
 
 ---
+</p>
